@@ -1,0 +1,22 @@
+{
+  "isas": [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque exercitationem praesentium nihil.",
+      "href": "/balance.png",
+      "id": 1,
+      "name": "Cushon Equities Fund 1"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque exercitationem praesentium nihil.",
+      "href": "/balance.png",
+      "id": 2,
+      "name": "Cushon Equities Fund 2"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque exercitationem praesentium nihil.",
+      "href": "/balance.png",
+      "id": 3,
+      "name": "Cushon Equities Fund 3"
+    }
+  ]
+}
